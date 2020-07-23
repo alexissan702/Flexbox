@@ -1,6 +1,15 @@
-
-div {
-    background-color: aqua;  
+h1 {
+    font-weight: bold;
+    color: brown;
+    font-size: 100px;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+div { 
     display: flex;
     flex-wrap: wrap;
+}
+body {
+    background-image: url("https://p0.pikist.com/photos/927/610/rain-cloud-drops-cold-grey-white-storm-background-gray.jpg");
+    background-size: cover;
 }
